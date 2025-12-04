@@ -249,7 +249,7 @@ checksum = "48c757948c5ede0e46177b7add2e67155f70e33c07fea8284df6576da70b3719"
 [[package]]
 name = "ff"
 version = "0.14.0-pre.0"
-source = "git+https://github.com/Honey-Be/ff?branch=vwallet-compat#0c16651eab9df1ed9760dda733c2dd3f72cc3353"
+source = "git+https://github.com/Honey-Be/ff?branch=vwallet-compat#462faf4ea99124f7829f54e33f53b3deb0046e1e"
 dependencies = [
  "bitvec",
  "ff_derive",
@@ -260,7 +260,7 @@ dependencies = [
 [[package]]
 name = "ff_derive"
 version = "0.14.0-pre.0"
-source = "git+https://github.com/Honey-Be/ff?branch=vwallet-compat#0c16651eab9df1ed9760dda733c2dd3f72cc3353"
+source = "git+https://github.com/Honey-Be/ff?branch=vwallet-compat#462faf4ea99124f7829f54e33f53b3deb0046e1e"
 dependencies = [
  "addchain",
  "num-bigint",
@@ -280,7 +280,7 @@ checksum = "e6d5a32815ae3f33302d95fdcb2ce17862f8c65363dcfd29360480ba1001fc9c"
 [[package]]
 name = "group"
 version = "0.13.0"
-source = "git+https://github.com/Honey-Be/group?branch=vwallet-compat#4e15488863914236e78e41bc969135d2e64d5719"
+source = "git+https://github.com/Honey-Be/group?branch=vwallet-compat#25c8f4025815b6cba3a09aebf8ffabd80e54bf3e"
 dependencies = [
  "ff",
  "rand_core",
